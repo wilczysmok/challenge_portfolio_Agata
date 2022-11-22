@@ -19,8 +19,9 @@ Powiedziałabym, że po części tak i nie. Głowne opcje takie jak Oddychanie c
 
 - Na pewno popracowałabym nad skróceniem ładowania się niektórych rzeczy. Może poprostu niektóre elementy są za ciężkie? 
 - Dodałabym zakładkę ''ulubione'' w bardziej widocznym miejscu.
-- Zakładka ''odkrywaj'', Rozumiem idee szukania ciekawych rzeczy (sama zakładka nazywa się ''odkrywaj''), ale mam wrażenie że jest tam nawrzucane strasznie dużo rzeczy i są one porozrzucane trochę ''dziko''. Niby widzimy ''tegorie''na  rze panelu ale sprawiają one wrazenie bardz dz popularnych tagów niż zakładek.
+- Zakładka ''odkrywaj'', Rozumiem idee szukania ciekawych rzeczy (sama zakładka nazywa się ''odkrywaj''), ale mam wrażenie że jest tam nawrzucane strasznie dużo rzeczy i są one porozrzucane trochę ''dziko''. Niby widzimy ''kategorie''na górze panelu ale sprawiają one wrażenie bardziej popularnych tagów niż zakładek.
 
 
 **5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?**
+
 
