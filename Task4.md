@@ -1,6 +1,7 @@
 # Task 4
 ## Subtask2
 **Link:**
+https://docs.google.com/document/d/1Os47yPnE-9EMO3NSTnOLryTlayvNnqzfT9qGOEqKXzg/edit?usp=sharing
 ## Subtask3
 **1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?**
 
