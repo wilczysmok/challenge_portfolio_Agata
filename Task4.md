@@ -5,7 +5,11 @@ https://docs.google.com/document/d/1Os47yPnE-9EMO3NSTnOLryTlayvNnqzfT9qGOEqKXzg/
 ## Subtask3
 **1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?**
 
+Aplikacja jest swego rodzaju przewodnikiem/ pomocą w odprężeniu, a jej celem jest pomoc osobom potrzebującym skupienia podczas medytacji bądz lub szukającym sposobu na relaks. 
+
 **2. Kto ma być użytkownikiem końcowym aplikacji?**
+
+Użytkownikiem końcowym będzie osoba praktykująca medytację lub potrzebująca czegoś co pomoże jej się skupic.
 
 **3. Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)**
 
