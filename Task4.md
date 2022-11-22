@@ -17,8 +17,9 @@ Powiedziałabym, że po części tak i nie. Głowne opcje takie jak Oddychanie c
 
 **4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )**
 
-- Na pewno popracowałabym nad skróceniem łądowania się niektórych rzeczy. Może poprostu niektóre elementy są za ciężkie? 
+- Na pewno popracowałabym nad skróceniem ładowania się niektórych rzeczy. Może poprostu niektóre elementy są za ciężkie? 
 - Dodałabym zakładkę ''ulubione'' w bardziej widocznym miejscu.
+- Zakładka ''odkrywaj'', Rozumiem idee szukania ciekawych rzeczy (sama zakładka nazywa się ''odkrywaj''), ale mam wrażenie że jest tam nawrzucane strasznie dużo rzeczy i są one porozrzucane trochę ''dziko''. Niby widzimy ''tegorie''na  rze panelu ale sprawiają one wrazenie bardz dz popularnych tagów niż zakładek.
 
 
 **5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?**
