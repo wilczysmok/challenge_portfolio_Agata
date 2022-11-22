@@ -13,7 +13,13 @@ Użytkownikiem końcowym będzie osoba praktykująca medytację lub potrzebując
 
 **3. Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)**
 
+Powiedziałabym, że po części tak i nie. Głowne opcje takie jak Oddychanie czy muzyka są dobrze widoczne ale gdy już chcemy zagłębić się bardziej w aplikacje to okazuje się że nad niektórymi opcjami musimy się nieżle naszukac np. ''Ulubione praktyki''
+
 **4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )**
+
+- Na pewno popracowałabym nad skróceniem łądowania się niektórych rzeczy. Może poprostu niektóre elementy są za ciężkie? 
+- Dodałabym zakładkę ''ulubione'' w bardziej widocznym miejscu.
+
 
 **5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?**
 
