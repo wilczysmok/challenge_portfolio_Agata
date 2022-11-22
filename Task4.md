@@ -24,8 +24,8 @@ Powiedziałabym, że po części tak i nie. Głowne opcje takie jak Oddychanie c
 
 **5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?**
 
-- Nie mogę uzyć narzędzi Dev tools w przypadku testowania aplikacji natywnej
-- W przypadku aplikacji natywnej muszę pobrac aplikację.
+- Nie mogę użyć narzędzi Dev tools w przypadku testowania aplikacji natywnej
+- W przypadku aplikacji natywnej muszę pobrać aplikację.
 
 
 
