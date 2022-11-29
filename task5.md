@@ -28,5 +28,9 @@
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
 
+
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
+![8](https://user-images.githubusercontent.com/115797350/204597676-e4225254-d0a6-4099-9da1-0035929c7118.png)
+
+9. Wyświetl dane klienta, który nie ma podanego adresu email.
