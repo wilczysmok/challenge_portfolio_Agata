@@ -3,11 +3,13 @@
 
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
-![Untitled-1](https://user-images.githubusercontent.com/115797350/204574094-43f262c9-c2aa-4561-b6a7-11f9ac5f3a12.png)
+![111](https://user-images.githubusercontent.com/115797350/204601057-a0cfeffc-b9bb-4fb7-8040-00ade766a28d.jpg)
+
 
 2. Wyświetl film, który powstał w 2019 roku.
 
-![2](https://user-images.githubusercontent.com/115797350/204576478-715465dd-ed3b-4271-964f-8fe622f10ed7.jpg)
+![2](https://user-images.githubusercontent.com/115797350/204601600-cb357833-8802-4728-aec6-542481a19f87.jpg)
+
 
 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 
@@ -28,9 +30,17 @@
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN. 
 
+![in](https://user-images.githubusercontent.com/115797350/204599903-2a3313c2-ef33-498f-9aa4-38a31a949368.jpg)
 
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
 ![8](https://user-images.githubusercontent.com/115797350/204597676-e4225254-d0a6-4099-9da1-0035929c7118.png)
 
 9. Wyświetl dane klienta, który nie ma podanego adresu email.
+
+![nuldd](https://user-images.githubusercontent.com/115797350/204600600-fa4d0f0c-e43d-46b1-998b-f8dd583bc422.jpg)
+
+10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+
+![10](https://user-images.githubusercontent.com/115797350/204599040-6b3a7593-a1ae-49a3-8ef7-929c5d4b5d0b.png)
+
