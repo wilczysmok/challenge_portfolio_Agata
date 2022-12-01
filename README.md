@@ -2,14 +2,31 @@
 
 ## About me ##
 
+I’m 25-year old digital artist with a passion to a videao games.                                         
+I'm always ready to learn new things and every barier I treat as a challange to overcome.                                       
+My main goal at this moment of my life is changing my carieer path with focusing on IT.
+As my first objective I decidet to aim for a Softver Tester position, to achive this Im taking part in
+different courses or webinars avaliable to me but also learning on my own. I'm a motivated and hard working person 
+looking for my first position in testing.
+
 ## Courses ##
 - Dare IT - Kurs testera manualnego
 - HTML/CSS Marathon from GoIT
+
  ## Tools ##
+ 
  - Slack
  - GitHub
  - HTML/CSS
  - Excel/arkusze Google
+ - Devtools
+ 
+## Soft skills ##
+
+- Scrum
+- Agile
+- GTD
+- Teamwork
 
 ## My projects ##
 
