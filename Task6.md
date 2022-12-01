@@ -1,5 +1,7 @@
 # Task 6 #
+
 ## Subtask 1 ##
+
 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
@@ -19,11 +21,12 @@
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
 
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = [honia@mail.com](mailto:honia@mail.com) oraz pseudonym = Hoa
-21. 
+
+
 ## Subtask 2 ##
 
 Test score 10/15
 
 ## Subtask 3 ##
 
-link:
+link: https://github.com/wilczysmok/challenge_portfolio_Agata/blob/main/README.md
