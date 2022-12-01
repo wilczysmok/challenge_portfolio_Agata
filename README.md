@@ -26,6 +26,7 @@
 ### HTML/CSS ###
 
 Practise exercise I did on 7 days HTML/CSS maraton 
+
 Link:https://agata-wilczysmok.netlify.app/?fbclid=IwAR2rb29wxu9tkJnDkG-_RZQG7JEU0kZO463DwYSPDm9RSMVIfUiTROSLCHU
 
 ### Digital graphic (adidtional expirience) ###
