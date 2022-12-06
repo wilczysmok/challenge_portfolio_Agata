@@ -40,15 +40,26 @@ W tutorialu działało a mi nie chce działać.
 
 17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)
 
+![order](https://user-images.githubusercontent.com/115797350/206023606-19958da4-ed85-4ece-84d3-08ca0a690d1d.jpg)
+
+
 
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
 
 
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
+
+
 ![movie](https://user-images.githubusercontent.com/115797350/206021183-d2e746ce-d52d-413f-aba7-3e5ed1bdf2c2.jpg)
 
 
 20. A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = [honia@mail.com](mailto:honia@mail.com) oraz pseudonym = Hoa
+
+
+![jhonia](https://user-images.githubusercontent.com/115797350/206025206-c2b593cd-d30f-4cf5-9a89-65d1c82a4c64.jpg)
+
+![insert](https://user-images.githubusercontent.com/115797350/206025367-f39d9d81-c405-424e-a919-afe3c123844a.jpg)
+
 
 
 ## Subtask 2 ##
