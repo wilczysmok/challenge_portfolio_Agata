@@ -46,6 +46,7 @@ W tutorialu działało a mi nie chce działać.
 
 18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).
 
+Nie wiedziałam jak to rozwiązać
 
 19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
 
