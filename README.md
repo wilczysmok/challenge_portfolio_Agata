@@ -19,6 +19,7 @@ I'm a motivated and hard working person looking for my first position in testing
  - HTML/CSS
  - Excel/arkusze Google
  - Devtools
+ - SQL-basics
  
 ## Soft skills ##
 
@@ -37,7 +38,6 @@ I'm a motivated and hard working person looking for my first position in testing
 
 - https://docs.google.com/spreadsheets/d/14sfCNwcKN-TSuZJLRnmiFsNhFhHdScXgfqd-T4ayxvo/edit#gid=0
 
-### SQL ###
 
 ### HTML/CSS ###
 
