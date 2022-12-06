@@ -4,6 +4,9 @@
 
 11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
 
+![miler 2](https://user-images.githubusercontent.com/115797350/205990446-7db5bdf3-dbdb-4263-9465-1d50ade8577a.jpg)
+
+![miler](https://user-images.githubusercontent.com/115797350/205990457-38d08d54-cc28-4b49-bf3d-1ffdd9996e37.png)
 
 
 12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.
